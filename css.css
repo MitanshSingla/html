@@ -1,0 +1,87 @@
+.pro {
+  
+  display: flex;
+  
+  
+  flex-direction: row;
+
+  
+  
+  justify-content: flex-start;
+}
+
+.first {
+  
+  display: flex;
+  
+  
+  flex-direction: row;
+
+  
+  justify-content: space-between;
+}
+
+
+.second {
+  
+  display: flex;
+  
+  
+   flex-direction: row;
+  
+  justify-content: space-between;
+}
+
+.third {
+  
+  display: flex;
+  
+  
+  flex-direction: row;
+  
+  
+  justify-content: space-between;
+}
+
+.fourth {
+  
+  display: flex;
+  
+  
+  flex-direction: row;
+  
+  
+  justify-content: space-between;
+}
+
+.a {
+
+   background-color: lightblue;
+   
+   color: white;
+
+}
+
+.b {
+
+   background-color: red;
+   
+   color: white;
+
+}
+
+.c {
+
+   background-color: green;
+   
+   color: white;
+
+}
+
+.d {
+
+   background-color: orange;
+   
+   color: white;
+
+}
